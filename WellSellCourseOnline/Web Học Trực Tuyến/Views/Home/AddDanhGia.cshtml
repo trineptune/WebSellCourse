@@ -1,0 +1,163 @@
+﻿@if (@TempData["IdHocVien"]==null)
+{
+
+
+<h1 style="font-family:verdana;font-size:100px"><b>Hãy đăng nhập!</b></h1>
+<meta http-equiv='refresh' content='0.5; URL=https://localhost:7226/Home/Login'>
+
+}
+<link href="bootstrap-rating.css" rel="stylesheet">
+<script type="text/javascript" src="bootstrap-rating.js"></script>
+
+
+@{
+    Layout = "~/Views/Shared/Layout1.cshtml";
+}
+
+
+@model Library_Class.Entities.DanhGiaKhoaHoc
+<p style="font-size:40px">Đánh Giá Khóa Học </p>
+<div class="x_content">
+
+                    <br>
+                    @using (Html.BeginForm("SaveDanhGia", "Home", FormMethod.Post, new { @class = "form-horizontal form-label-left" }))
+                    {
+                        <div class="form-group">
+                            <label class="control-label col-md-3 col-sm-3 col-xs-12" for="categoryId">
+                                 Nhập nội dung đánh giá <span class="required">*</span>
+                            </label>
+                            
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                @Html.TextBoxFor(m => m.NoiDungDanhGia, new { @class = "form-control col-md-7 col-xs-12" })
+
+                            </div>
+                        </div>
+                       
+                    <div> 
+                        @Html.RadioButtonFor(m=>m.Rating,"1")@Html.Label("☆")<br><br>
+                        @Html.RadioButtonFor(m=>m.Rating,"2")@Html.Label("☆☆")<br><br>
+                        @Html.RadioButtonFor(m=>m.Rating,"3")@Html.Label("☆☆☆")<br><br>
+                        @Html.RadioButtonFor(m=>m.Rating,"4")@Html.Label("☆☆☆☆")<br><br>
+                        @Html.RadioButtonFor(m=>m.Rating,"5")@Html.Label("☆☆☆☆☆")
+                    </div>
+                        <div class="form-group">
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                @Html.HiddenFor(m=>m.IdKhoaHocOnline)
+
+                            </div>
+                        </div>
+                      
+                        <div class="ln_solid"></div>
+                        <div class="form-group">
+                            <div class="col-md-6 col-sm-6 col-xs-12 col-md-offset-3">
+                                <button class="btn btn-primary" type="reset">Reset</button>
+                                <button type="submit" class="btn btn-success">Submit</button>
+                            </div>
+                        </div>
+                    }
+     </div>
+ 
+<style>
+
+.dot {
+      height: 18px;
+    width: 18px;
+    background-color: blue;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    border: 3px solid #fff;
+    top: -48px;
+    left: 186px;
+    z-index: 1000;
+}
+
+.name{
+	margin-top: -21px;
+	font-size: 18px;
+}
+
+
+.fw-500{
+	font-weight: 500 !important;
+}
+
+
+.start{
+
+	color: green;
+}
+
+.stop{
+	color: red;
+}
+
+
+.rate{
+
+	border-bottom-right-radius: 12px;
+	border-bottom-left-radius: 12px;
+
+}
+
+
+
+.rating {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center
+}
+
+.rating>input {
+    display: none
+}
+
+.rating>label {
+    position: relative;
+    width: 1em;
+    font-size: 30px;
+    font-weight: 300;
+    color: #FFD600;
+    cursor: pointer
+}
+
+.rating>label::before {
+    content: "\2605";
+    position: absolute;
+    opacity: 0
+}
+
+.rating>label:hover:before,
+.rating>label:hover~label:before {
+    opacity: 1 !important
+}
+
+.rating>input:checked~label:before {
+    opacity: 1
+}
+
+.rating:hover>input:checked~label:before {
+    opacity: 0.4
+}
+
+
+.buttons{
+	top: 36px;
+    position: relative;
+}
+
+
+.rating-submit{
+	border-radius: 15px;
+	color: #fff;
+	    height: 49px;
+}
+
+
+.rating-submit:hover{
+	
+	color: #fff;
+}
+
+</style>
+

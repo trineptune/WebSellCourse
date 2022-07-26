@@ -1,0 +1,222 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>TRANG CHỦ</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="Free HTML Templates" name="keywords">
+    <meta content="Free HTML Templates" name="description">
+    
+    <!-- Favicon -->
+    <link href="img/favicon.ico" rel="icon">
+    <script src="jquery-3.6.0.min.js"></script>
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Nunito&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+
+    <!-- Flaticon Font -->
+    <link href="lib/flaticon/font/flaticon.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="~/css/style.css" rel="stylesheet">
+    <!-- Lib JQuery-->
+  <script type="text/javascript" 
+    src="http://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">  
+    </script> 
+</head>
+
+<body>
+    <!-- Navbar(head) Start -->
+    <div class="container-fluid bg-light position-relative shadow">
+        <nav class="navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-0 px-lg-5">
+            <a href="https://localhost:7226/Home" class="navbar-brand font-weight-bold text-secondary" style="font-size: 50px;">
+                <span class="text-primary">KHÓA HỌC ONLINE</span>
+            </a>
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+                <div class="navbar-nav font-weight-bold mx-auto py-0">
+                    <a href="https://localhost:7226/home" class="nav-item nav-link active">TRANG CHỦ</a>
+                    <a href="https://localhost:7226/home/thongtin" class="nav-item nav-link">THÔNG TIN</a>
+                    <a href="https://localhost:7226/home/LopHoc" class="nav-item nav-link">LỚP HỌC</a>
+                    <a href="https://localhost:7226/home/lienhe" class="nav-item nav-link">LIÊN HỆ</a>
+                </div>
+                 @if(@TempData["IdHocVien"]==null){
+
+                    <a href="https://localhost:7226/Home/Login" class="btn btn-primary px-4 mx-auto mb-4">Đăng Nhập</a>
+                }
+                else if(@TempData["IdHocVien"]!=null){
+                    @foreach (var item in ViewBag.hotenHV as List<Library_Class.Entities.HocVien>)
+                    {
+                                                        <div class="flip-card">
+                                  <div class="flip-card-inner">
+                                    <div class="flip-card-front">
+                                      <img src="@item.LinkHinhAnhHocVien" alt="Avatar" style="width:200px;height:200px;">
+                                    </div>
+                                    <div class="flip-card-back">
+                                      <h1>@item.HoTen</h1> 
+                                      <a href="https://localhost:7226/home/dangxuat" class="btn btn-primary">Đăng xuất</a>
+                                    </div>
+                                  </div>
+                                </div>
+               
+                            
+
+                  
+                    }
+                                    }
+            </div>
+        </nav>
+    </div>
+    <!-- Navbar(head) End -->
+
+
+
+    @RenderBody()
+
+    <!-- Footer Start -->
+    <div class="container-fluid bg-secondary text-white mt-5 py-5 px-sm-3 px-md-5">
+        <div class="row pt-5">
+            <div class="col-lg-3 col-md-6 mb-5">
+                <a href="" class="navbar-brand font-weight-bold text-primary m-0 mb-4 p-0" style="font-size: 40px; line-height: 40px;">
+                    <span class="text-white">HỌC TRỰC TUYẾN</span>
+                </a>
+                <p>Hãy vì tương lai con trẻ mà đăng ký học trực tuyến từ website của chúng tôi. Uy tín chất lượng. Đảm bảo giảng viên giỏi chỉ dạy hay. Nhanh chân lên!!! 
+                </p>
+                <div class="d-flex justify-content-start mt-4">
+                    <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
+                        style="width: 38px; height: 38px;" href="#"><i class="fab fa-twitter"></i></a>
+                    <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
+                        style="width: 38px; height: 38px;" href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
+                        style="width: 38px; height: 38px;" href="#"><i class="fab fa-linkedin-in"></i></a>
+                    <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0"
+                        style="width: 38px; height: 38px;" href="#"><i class="fab fa-instagram"></i></a>
+                </div>
+            </div>
+            
+            <div class="col-lg-3 col-md-6 mb-5">
+                <h3 class="text-primary mb-4">Thông Tin Của chúng tôi</h3>
+                <div class="d-flex">
+                    <h4 class="fa fa-map-marker-alt text-primary"></h4>
+                    <div class="pl-3">
+                        <h5 class="text-white">Địa Chỉ</h5>
+                        <p>
+                            Đại Học Hoa Sen
+                        </p>
+                        <ul>
+                            <li>Cơ Sở : Quang Trung 1</li>
+                            <li>Thành Phố : Hồ Chí Minh </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="d-flex">
+                    <h4 class="fa fa-envelope text-primary"></h4>
+                    <div class="pl-3">
+                        <h5 class="text-white">Email</h5>
+                        <p>Teamdavande@sinhvien.hoasen.edu.vn</p>
+                    </div>
+                </div>
+
+                <div class="d-flex">
+                    <h4 class="fa fa-phone-alt text-primary"></h4>
+                    <div class="pl-3">
+                        <h5 class="text-white">Đường dây nóng</h5>
+                        <p>+1900 1000 biết</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6 mb-5">
+                <h3 class="text-primary mb-4">Tìm hiểu thêm</h3>
+                <div class="d-flex flex-column justify-content-start">
+                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Trang chủ</a>
+                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Thông Tin</a>
+                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Lớp Học</a>
+                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Giảng Viên</a>
+                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Liên Hệ</a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-5">
+                <h3 class="text-primary mb-4">Form Đăng Ký</h3>
+                <form action="">
+                    <div class="form-group">
+                        <input type="text" class="form-control border-0 py-4" placeholder="Họ & Tên" required="required" />
+                    </div>
+
+                     <div class="form-group">
+                        <input type="date" class="form-control border-0 py-4" placeholder="Ngày/tháng/năm sinh" required="required" />
+                    </div>
+
+                    <div class="form-group">
+                        <input type="email" class="form-control border-0 py-4" placeholder="Email" required="required" />
+                    </div>
+
+                    <div class="form-group">
+                        <input type="password" class="form-control border-0 py-4" placeholder="Mật Khẩu"/>
+                    </div>
+
+                    <div class="form-group">
+                        <input type="tel" class="form-control border-0 py-4" placeholder="Số điện thoại" />
+                    </div>
+                   <div class="form-group">
+                       <select class="custom-select border-0 px-4" style="height: 47px;">
+                          <option selected>Chọn Danh Sách Môn Học</option>
+                          <option value="1">1.Học Làm Web</option>
+                          <option value="2">2.Lập Trình Front - End</option>
+                          <option value="3">3.Lập Trình Back - End</option>
+                          <option value="3">4.Lập Trình Android Studio</option>
+                          <option value="3">5.Lập Trình C++</option>
+                       </select>
+                    </div>
+                    <div>
+
+                        <button class="btn btn-primary btn-block border-0 py-3" type="submit">Đăng Ký</button>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+        <div class="container-fluid pt-5" style="border-top: 1px solid rgba(23, 162, 184, .2);">
+            <p class="m-0 text-center text-white">
+                &copy; <a class="text-primary font-weight-bold" href="#">Team Đa Vấn Đề</a>. All Rights Reserved. Designed
+                by
+                <a class="text-primary font-weight-bold" href="https://htmlcodex.com">HTML Codex</a>
+            </p>
+        </div>
+    </div>
+    <!-- Footer End -->
+
+
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-primary p-3 back-to-top"><i class="fa fa-angle-double-up"></i></a>
+
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="lib/isotope/isotope.pkgd.min.js"></script>
+    <script src="lib/lightbox/js/lightbox.min.js"></script>
+
+    <!-- Contact Javascript File -->
+    <script src="mail/jqBootstrapValidation.min.js"></script>
+    <script src="mail/contact.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
+</body>
+
+</html>
+

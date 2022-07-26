@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3ee01d7d-d586-4fb1-a9bd-167d412276dc": {
+      "ProjectGuid": "3ee01d7d-d586-4fb1-a9bd-167d412276dc",
+      "DisplayName": "Library Class",
+      "ColorIndex": 0
+    },
+    "8f2a2696-e232-4ee5-ad35-2f8a48e908f4": {
+      "ProjectGuid": "8f2a2696-e232-4ee5-ad35-2f8a48e908f4",
+      "DisplayName": "E-Learning",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0d8ee54a-0746-4848-9588-f3ff82505aff": {
+      "ProjectGuid": "0d8ee54a-0746-4848-9588-f3ff82505aff",
+      "DisplayName": "KhoaHoc",
+      "ColorIndex": 2
+    },
+    "922d4eb3-25eb-4571-bee0-534953daac71": {
+      "ProjectGuid": "922d4eb3-25eb-4571-bee0-534953daac71",
+      "DisplayName": "KhoaHoc",
+      "ColorIndex": 3
+    },
+    "b7f2e6ae-3116-4182-80e6-0184a173b20c": {
+      "ProjectGuid": "b7f2e6ae-3116-4182-80e6-0184a173b20c",
+      "DisplayName": "KhoaHocOnline",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

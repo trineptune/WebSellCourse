@@ -1,0 +1,366 @@
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.csproj.AssemblyReference.cache
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.GeneratedMSBuildEditorConfig.editorconfig
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.AssemblyInfoInputs.cache
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.AssemblyInfo.cs
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.csproj.CoreCompileInputs.cache
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.MvcApplicationPartsAssemblyInfo.cache
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.RazorAssemblyInfo.cache
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.RazorAssemblyInfo.cs
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\appsettings.Development.json
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\appsettings.json
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.staticwebassets.runtime.json
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.exe
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.deps.json
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.runtimeconfig.json
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\ref\Web Học Trực Tuyến.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.pdb
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\staticwebassets.build.json
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\staticwebassets.development.json
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\scopedcss\bundle\Web Học Trực Tuyến.styles.css
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\scopedcss\projectbundle\Web Học Trực Tuyến.bundle.scp.css
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\ref\Web Học Trực Tuyến.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.pdb
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.genruntimeconfig.cache
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.csproj.CopyComplete
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\appsettings.Development.json
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\appsettings.json
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.staticwebassets.runtime.json
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.exe
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.deps.json
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.runtimeconfig.json
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\ref\Web Học Trực Tuyến.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.pdb
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Library_Class.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.csproj.AssemblyReference.cache
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.GeneratedMSBuildEditorConfig.editorconfig
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.AssemblyInfoInputs.cache
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.AssemblyInfo.cs
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.csproj.CoreCompileInputs.cache
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.MvcApplicationPartsAssemblyInfo.cache
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.RazorAssemblyInfo.cache
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.RazorAssemblyInfo.cs
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\staticwebassets.build.json
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\staticwebassets.development.json
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\scopedcss\bundle\Web Học Trực Tuyến.styles.css
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\scopedcss\projectbundle\Web Học Trực Tuyến.bundle.scp.css
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.csproj.CopyComplete
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\ref\Web Học Trực Tuyến.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.pdb
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.genruntimeconfig.cache
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Humanizer.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Library Class.dll
+D:\Template\Web Học Trực Tuyến\Web Học Trực Tuyến\bin\Debug\net6.0\Library Class.pdb
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\appsettings.Development.json
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\appsettings.json
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.staticwebassets.runtime.json
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.exe
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.deps.json
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.runtimeconfig.json
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\ref\Web Học Trực Tuyến.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.pdb
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Humanizer.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Library Class.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\bin\Debug\net6.0\Library Class.pdb
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.GeneratedMSBuildEditorConfig.editorconfig
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.AssemblyInfoInputs.cache
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.AssemblyInfo.cs
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.csproj.CoreCompileInputs.cache
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.MvcApplicationPartsAssemblyInfo.cache
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.RazorAssemblyInfo.cache
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.RazorAssemblyInfo.cs
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\obj\Debug\net6.0\staticwebassets.build.json
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\obj\Debug\net6.0\staticwebassets.development.json
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\obj\Debug\net6.0\scopedcss\bundle\Web Học Trực Tuyến.styles.css
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\obj\Debug\net6.0\scopedcss\projectbundle\Web Học Trực Tuyến.bundle.scp.css
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.csproj.CopyComplete
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\obj\Debug\net6.0\ref\Web Học Trực Tuyến.dll
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.pdb
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.genruntimeconfig.cache
+C:\DoanChuyenNghanhA\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.csproj.AssemblyReference.cache
+D:\Template\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.csproj.AssemblyReference.cache
+D:\Template\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.GeneratedMSBuildEditorConfig.editorconfig
+D:\Template\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.AssemblyInfoInputs.cache
+D:\Template\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.AssemblyInfo.cs
+D:\Template\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.csproj.CoreCompileInputs.cache
+D:\Template\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.MvcApplicationPartsAssemblyInfo.cache
+D:\Template\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.RazorAssemblyInfo.cache
+D:\Template\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.RazorAssemblyInfo.cs
+D:\Template\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.dll
+D:\Template\Web Học Trực Tuyến\obj\Debug\net6.0\ref\Web Học Trực Tuyến.dll
+D:\Template\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.pdb
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\appsettings.Development.json
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\appsettings.json
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.staticwebassets.runtime.json
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.exe
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.deps.json
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.runtimeconfig.json
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\ref\Web Học Trực Tuyến.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.pdb
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Humanizer.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Library Class.dll
+D:\Template\Web Học Trực Tuyến\obj\Debug\net6.0\staticwebassets.build.json
+D:\Template\Web Học Trực Tuyến\obj\Debug\net6.0\staticwebassets.development.json
+D:\Template\Web Học Trực Tuyến\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Template\Web Học Trực Tuyến\obj\Debug\net6.0\scopedcss\bundle\Web Học Trực Tuyến.styles.css
+D:\Template\Web Học Trực Tuyến\obj\Debug\net6.0\scopedcss\projectbundle\Web Học Trực Tuyến.bundle.scp.css
+D:\Template\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.csproj.CopyComplete
+D:\Template\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.genruntimeconfig.cache
+D:\Template\Web Học Trực Tuyến\bin\Debug\net6.0\Library Class.pdb
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\appsettings.Development.json
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\appsettings.json
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.staticwebassets.runtime.json
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.exe
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.deps.json
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.runtimeconfig.json
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\ref\Web Học Trực Tuyến.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.pdb
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Humanizer.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Library Class.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\bin\Debug\net6.0\Library Class.pdb
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.csproj.AssemblyReference.cache
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.GeneratedMSBuildEditorConfig.editorconfig
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.AssemblyInfoInputs.cache
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.AssemblyInfo.cs
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.csproj.CoreCompileInputs.cache
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.MvcApplicationPartsAssemblyInfo.cache
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.RazorAssemblyInfo.cache
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.RazorAssemblyInfo.cs
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\obj\Debug\net6.0\staticwebassets.build.json
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\obj\Debug\net6.0\staticwebassets.development.json
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\obj\Debug\net6.0\scopedcss\bundle\Web Học Trực Tuyến.styles.css
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\obj\Debug\net6.0\scopedcss\projectbundle\Web Học Trực Tuyến.bundle.scp.css
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.csproj.CopyComplete
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\obj\Debug\net6.0\ref\Web Học Trực Tuyến.dll
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.pdb
+C:\DoanChuyenNghanhA\Doan\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.genruntimeconfig.cache
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.csproj.AssemblyReference.cache
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.GeneratedMSBuildEditorConfig.editorconfig
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.AssemblyInfoInputs.cache
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.AssemblyInfo.cs
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.csproj.CoreCompileInputs.cache
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.MvcApplicationPartsAssemblyInfo.cache
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.RazorAssemblyInfo.cache
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.RazorAssemblyInfo.cs
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\obj\Debug\net6.0\ref\Web Học Trực Tuyến.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.pdb
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\appsettings.Development.json
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\appsettings.json
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.staticwebassets.runtime.json
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.exe
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.deps.json
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.runtimeconfig.json
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\ref\Web Học Trực Tuyến.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Web Học Trực Tuyến.pdb
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Humanizer.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Library Class.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Library Class.pdb
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\obj\Debug\net6.0\staticwebassets.build.json
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\obj\Debug\net6.0\staticwebassets.development.json
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\obj\Debug\net6.0\scopedcss\bundle\Web Học Trực Tuyến.styles.css
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\obj\Debug\net6.0\scopedcss\projectbundle\Web Học Trực Tuyến.bundle.scp.css
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.csproj.CopyComplete
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\obj\Debug\net6.0\Web Học Trực Tuyến.genruntimeconfig.cache
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Xceed.Wpf.AvalonDock.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Xceed.Wpf.Toolkit.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\libman.json
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Antlr3.Runtime.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\System.Web.Optimization.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\DoanChuyenNghanhA\File chính\Web Học Trực Tuyến\bin\Debug\net6.0\WebGrease.dll

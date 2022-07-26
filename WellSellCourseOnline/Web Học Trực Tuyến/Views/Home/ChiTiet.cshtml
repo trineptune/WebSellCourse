@@ -1,0 +1,316 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+@{
+    Layout = "~/Views/Shared/ChiTiet.cshtml";
+}
+
+@model  Library_Class.Entities.KhoaHocOnline
+
+<head>
+    <meta charset="utf-8">
+    <title>TRANG CHỦ</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="Free HTML Templates" name="keywords">
+    <meta content="Free HTML Templates" name="description">
+    <!--danhgia-->
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.1/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <!-- Favicon -->
+    <link href="img/favicon.ico" rel="icon">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Nunito&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+
+    <!-- Flaticon Font -->
+    <link href="lib/flaticon/font/flaticon.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="~/css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Navbar(head) Start -->
+    <div class="container-fluid bg-light position-relative shadow">
+        <nav class="navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-0 px-lg-5">
+            <a href="" class="navbar-brand font-weight-bold text-secondary" style="font-size: 50px;">
+                <span class="text-primary">KHÓA HỌC ONLINE</span>
+            </a>
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+                <div class="navbar-nav font-weight-bold mx-auto py-0">
+                    <a href="https://localhost:7226/home" class="nav-item nav-link active">TRANG CHỦ</a>
+                    <a href="https://localhost:7226/home/thongtin" class="nav-item nav-link">THÔNG TIN</a>
+                    <a href="https://localhost:7226/home/LopHoc" class="nav-item nav-link">LỚP HỌC</a>
+                    <a href="https://localhost:7226/home/lienhe" class="nav-item nav-link">LIÊN HỆ</a>
+                </div>
+                @if(@TempData["IdHocVien"]==null){
+
+                    <a href="https://localhost:7226/Home/Login" class="btn btn-primary px-4 mx-auto mb-4">Đăng Nhập</a>
+                }
+                else if(@TempData["IdHocVien"]!=null){
+                    @foreach (var item in ViewBag.hotenHV as List<Library_Class.Entities.HocVien>)
+                    {
+                                                        <div class="flip-card">
+                                  <div class="flip-card-inner">
+                                    <div class="flip-card-front">
+                                      <img src="@item.LinkHinhAnhHocVien" alt="Avatar" style="width:200px;height:200px;">
+                                    </div>
+                                    <div class="flip-card-back">
+                                      <h1>@item.HoTen</h1> 
+                                      <a href="https://localhost:7226/home/dangxuat" class="btn btn-primary">Đăng xuất</a>
+                                    </div>
+                                  </div>
+                                </div>
+               
+                            
+
+                  
+                    }
+                                    }
+            </div>
+        </nav>
+    </div>
+    <!-- Navbar(head) End -->
+
+
+    <!-- Header Start -->
+     @foreach(var item in ViewBag.danhsachkhoahoc as List<Library_Class.Entities.KhoaHocOnline>){
+    <div class="container-fluid bg-primary px-0 px-md-5 mb-5">
+        <div class="row align-items-center px-3">
+            <div class="col-lg-6 text-center text-lg-left">
+                   <div class="card" style="width: 28rem;">
+                       @foreach(var item3 in ViewBag.danhsachgiangvien as List<Library_Class.Entities.GiangVien>)
+                        {
+                      
+                        
+                  <img src="@item3.LinkHinhAnhGiangVien" class="card-img-top" alt="...">
+                 }
+                  <div class="card-body">
+                    <h5 class="card-title">Thông tin khóa học</h5>
+                    <h4 class="card-title">Tên khóa học:</h4>
+                    <h4 class="list-group-item">@item.TenKhoaHoc</h4>
+                     @foreach(var item2 in ViewBag.danhsachgiangvien as List<Library_Class.Entities.GiangVien>)
+                        {
+                             <h4 class="card-text">Họ tên giảng viên : </h4>
+                             <h4 class="list-group-item">@item2.HoTen</h4>
+                        }
+                  </div>
+                  <ul class="list-group list-group-flush">
+                      <li class="card-text">Giá gốc </li>
+                    <li class="list-group-item"> @item.GiaGoc</li>
+                    <li class="card-text">Giá giảm </li>
+                    <li class="list-group-item">@item.GiaGiam</li>
+                  </ul>
+                  <div class="card-body">
+                      @using (Html.BeginForm("AddToCart","Shopping",FormMethod.Post))
+                                {
+                                    @Html.HiddenFor(m=>m.Id)
+                                    @Html.Hidden("siQty", 1)
+                                    <button style="width: 150px;height:50px" type="submit" class="btn btn-success">Thêm vào giỏ hàng</button>
+
+                                }
+               
+                  </div>
+                </div>
+            </div>
+                             
+            <div class="col-lg-6 text-center text-lg-right">
+                <iframe width="1000" height="500"
+                src="@item.LinkVideo">
+            </iframe>
+            </div>
+
+            
+        </div>
+    </div>
+    }
+    <!-- Header End -->
+
+<!---BOdy--->
+<h1 style="font-family:verdana;font-size:40px"><b>Nội dung khóa học</b></h1>
+  <div class="container-fluid pt-5">
+        <div class="container pb-3">
+            <div class="row">
+                @foreach ( var item in  ViewBag.Baihoc as List<Library_Class.Entities.BaiHoc>)  
+                    {
+                     <div class="col-lg-4 col-md-6 pb-1">
+                    <div class="d-flex bg-light shadow-sm border-top rounded mb-4" style="padding: 30px;">
+                        <i class="flaticon-050-fence h1 font-weight-normal text-primary mb-3"></i>
+                        <div class="pl-4">
+                            <h4>Bài học : @item.Ten</h4>
+                            <h4>Thời gian học : @item.ThoiGian Phút</h4>
+                            <h5>Nội dung : @item.NoiDung</h5>
+                        </div>
+                    </div>
+                </div>
+                }
+             </div> 
+         </div>
+ </div>
+
+           @*đánh giá*@
+           <h1 style="font-family:verdana;font-size:40px"><b>Danh sách đánh giá</b></h1>
+
+               @{
+
+                    int c = ( ViewData["ListDanhGia"] as IEnumerable<Web_Học_Trực_Tuyến.Models.Join_Hocvien_Danhgia>).Count();
+             @if(c>0)
+             {
+@foreach ( var item in  ViewData["ListDanhGia"] as IEnumerable<Web_Học_Trực_Tuyến.Models.Join_Hocvien_Danhgia>)  
+     {
+    <div class="container">
+
+	<div class="card">
+	    <div class="card-body">
+	        <div class="row">
+        	    <div class="col-md-2">
+        	        <img src="@item.hocviens.LinkHinhAnhHocVien" class="img img-rounded img-fluid"/>
+        	        <p class="text-secondary text-center">@item.danhgias.NgayDanhGia</p>
+        	    </div>
+        	    <div class="col-md-10">
+        	        <p>
+        	            <a class="float-left"><strong>@item.hocviens.HoTen</strong></a>
+        	            <span class="float-right"><i class="text-warning fa fa-star"></i></span>
+                        <span class="float-right"><i class="text-warning fa fa-star"></i></span>
+        	            <span class="float-right"><i class="text-warning fa fa-star"></i></span>
+        	            <span class="float-right"><i class="text-warning fa fa-star"></i></span>
+
+        	       </p>
+        	       <div class="clearfix"></div>
+                    <p style="font-size:25px">@item.danhgias.NoiDungDanhGia</p>        	       
+        	    </div>
+	        </div>
+	    </div>
+	</div>
+</div>
+
+                        }}
+
+    }              
+
+
+        <div class="container">
+             <a href="https://localhost:7226/home/AddDanhGia/@Model.Id" style="width: 150px;height:75px;font-size:20px" class="btn btn-info"">Đánh giá</a>
+        </div>
+   
+                
+
+       
+    
+<!---body end--->
+   
+
+
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-primary p-3 back-to-top"><i class="fa fa-angle-double-up"></i></a>
+
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="lib/isotope/isotope.pkgd.min.js"></script>
+    <script src="lib/lightbox/js/lightbox.min.js"></script>
+
+    <!-- Contact Javascript File -->
+    <script src="mail/jqBootstrapValidation.min.js"></script>
+    <script src="mail/contact.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
+</body>
+
+</html>
+<style>
+.dropbtn {
+  background-color: blue;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: green;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.flip-card {
+  background-color: transparent;
+  width: 200px;
+  height: 200px;
+  perspective: 1000px;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  background-color: #bbb;
+  color: black;
+}
+
+.flip-card-back {
+  background-color: #2980b9;
+  color: white;
+  transform: rotateY(180deg);
+}
+}
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+</style>

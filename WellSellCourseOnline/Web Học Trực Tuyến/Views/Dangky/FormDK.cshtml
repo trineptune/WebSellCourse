@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+@{
+    Layout= "~/Views/Shared/Layout1.cshtml";
+}
+
+@model Web_Học_Trực_Tuyến.Models.Hocvien_Giangvien_Taikhoan
+<
+        <div class="container pb-3">
+                 @using (Html.BeginForm("SaveTaikhoan", "Dangky", FormMethod.Post, new { @class = "form-horizontal form-label-left" }))
+                    {
+                        <div class="form-group">
+                            <label class="control-label col-md-3 col-sm-3 col-xs-12" for="categoryId">
+                                 Tài khoản <span class="required">*</span>
+                            </label>
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                @Html.TextBoxFor(m => m.taikhoans.Id, new { @class = "form-control col-md-7 col-xs-12",required="required" })
+
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-md-3 col-sm-3 col-xs-12" for="categoryId">
+                                 Họ và tên <span class="required">*</span>
+                            </label>
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                @Html.TextBoxFor(m => m.hocviens.HoTen, new { @class = "form-control col-md-7 col-xs-12",required="required" })
+
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-md-3 col-sm-3 col-xs-12" for="categoryId">
+                                 Số điện thoại <span class="required">*</span>
+                            </label>
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                @Html.TextBoxFor(m => m.hocviens.SoDienThoai, new { @class = "form-control col-md-7 col-xs-12",required="required" })
+
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="control-label col-md-3 col-sm-3 col-xs-12" for="categoryId">
+                                 Email <span class="required">*</span>
+                            </label>
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                @Html.TextBoxFor(m => m.hocviens.Email, new { @class = "form-control col-md-7 col-xs-12",required="required" })
+
+                            </div>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label class="control-label col-md-3 col-sm-3 col-xs-12" for="categoryId">
+                                 Mật khẩu <span class="required">*</span>
+                            </label>
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                @Html.PasswordFor(m => m.taikhoans.MatKhau, new {placeholder="Matkhau", @class = "form-control col-md-7 col-xs-12",required="required",id="txtPassword" })
+                             
+
+                            </div>
+                        </div>
+                        
+                         <div class="form-group">
+                            <label id="confirm_password" class="control-label col-md-3 col-sm-3 col-xs-12" for="categoryId">
+                                 Nhập lại mật khẩu <span class="required">*</span>
+                            </label>
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                @Html.PasswordFor(m => m.taikhoans.MatKhau, new {placeholder="Matkhau", @class = "form-control col-md-7 col-xs-12",required="required",id="txtConfirmPassword" })
+
+                            </div>
+                        </div>
+                      
+                        <div class="ln_solid"></div>
+                        <div class="form-group">
+                            <div class="col-md-6 col-sm-6 col-xs-12 col-md-offset-3">
+                                <button class="btn btn-primary" type="reset">Reset</button>
+                                <button type="submit" onclick="return Validate()" class="btn btn-success">Submit</button>
+                            </div>
+                        </div>
+                    }
+            </div>
+
+            <script type="text/javascript">
+    function Validate() {
+        var password = document.getElementById("txtPassword").value;
+        var confirmPassword = document.getElementById("txtConfirmPassword").value;
+        if (password != confirmPassword) {
+            alert("Passwords do not match.");
+            return false;
+        }
+        return true;
+    }
+</script>

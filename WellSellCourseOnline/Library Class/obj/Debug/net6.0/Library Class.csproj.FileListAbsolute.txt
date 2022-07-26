@@ -1,0 +1,65 @@
+D:\Do An A\Library\Library Class\bin\Debug\net6.0\Library Class.deps.json
+D:\Do An A\Library\Library Class\bin\Debug\net6.0\Library Class.runtimeconfig.json
+D:\Do An A\Library\Library Class\bin\Debug\net6.0\Library Class.dll
+D:\Do An A\Library\Library Class\bin\Debug\net6.0\Library Class.pdb
+D:\Do An A\Library\Library Class\obj\Debug\net6.0\Library Class.csproj.AssemblyReference.cache
+D:\Do An A\Library\Library Class\obj\Debug\net6.0\Library Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Do An A\Library\Library Class\obj\Debug\net6.0\Library Class.AssemblyInfoInputs.cache
+D:\Do An A\Library\Library Class\obj\Debug\net6.0\Library Class.AssemblyInfo.cs
+D:\Do An A\Library\Library Class\obj\Debug\net6.0\Library Class.csproj.CoreCompileInputs.cache
+D:\Do An A\Library\Library Class\obj\Debug\net6.0\Library Class.dll
+D:\Do An A\Library\Library Class\obj\Debug\net6.0\refint\Library Class.dll
+D:\Do An A\Library\Library Class\obj\Debug\net6.0\Library Class.pdb
+D:\Do An A\Library\Library Class\obj\Debug\net6.0\Library Class.genruntimeconfig.cache
+D:\Do An A\Library\Library Class\obj\Debug\net6.0\ref\Library Class.dll
+E:\Visual Studio 2022 Web\Library Class\obj\Debug\net6.0\Library Class.csproj.AssemblyReference.cache
+E:\Visual Studio 2022 Web\Library Class\obj\Debug\net6.0\KhoaHoc.ThongTin.resources
+E:\Visual Studio 2022 Web\Library Class\obj\Debug\net6.0\Library Class.csproj.GenerateResource.cache
+E:\Visual Studio 2022 Web\Library Class\obj\Debug\net6.0\Library Class.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio 2022 Web\Library Class\obj\Debug\net6.0\Library Class.AssemblyInfoInputs.cache
+E:\Visual Studio 2022 Web\Library Class\obj\Debug\net6.0\Library Class.AssemblyInfo.cs
+E:\Visual Studio 2022 Web\Library Class\obj\Debug\net6.0\Library Class.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2022 Web\Library Class\obj\Debug\net6.0\Library Class.dll
+E:\Visual Studio 2022 Web\Library Class\obj\Debug\net6.0\ref\Library Class.dll
+E:\Visual Studio 2022 Web\Library Class\obj\Debug\net6.0\Library Class.pdb
+D:\Template\Web Học Trực Tuyến\Library Class\obj\Debug\net6.0\Library Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Template\Web Học Trực Tuyến\Library Class\obj\Debug\net6.0\Library Class.AssemblyInfoInputs.cache
+D:\Template\Web Học Trực Tuyến\Library Class\obj\Debug\net6.0\Library Class.AssemblyInfo.cs
+D:\Template\Web Học Trực Tuyến\Library Class\obj\Debug\net6.0\Library Class.csproj.CoreCompileInputs.cache
+D:\Template\Web Học Trực Tuyến\Library Class\obj\Debug\net6.0\Library Class.dll
+D:\Template\Web Học Trực Tuyến\Library Class\obj\Debug\net6.0\ref\Library Class.dll
+D:\Template\Web Học Trực Tuyến\Library Class\obj\Debug\net6.0\Library Class.pdb
+D:\Template\Web Học Trực Tuyến\Library Class\bin\Debug\net6.0\Library Class.deps.json
+D:\Template\Web Học Trực Tuyến\Library Class\bin\Debug\net6.0\Library Class.runtimeconfig.json
+D:\Template\Web Học Trực Tuyến\Library Class\bin\Debug\net6.0\Library Class.dll
+D:\Template\Web Học Trực Tuyến\Library Class\bin\Debug\net6.0\ref\Library Class.dll
+D:\Template\Web Học Trực Tuyến\Library Class\bin\Debug\net6.0\Library Class.pdb
+D:\Template\Web Học Trực Tuyến\Library Class\obj\Debug\net6.0\Library Class.genruntimeconfig.cache
+D:\UNIVERSITY\Nam 3 - HK 3\Đồ án A\Library Class\bin\Debug\net6.0\Library Class.deps.json
+D:\UNIVERSITY\Nam 3 - HK 3\Đồ án A\Library Class\bin\Debug\net6.0\Library Class.runtimeconfig.json
+D:\UNIVERSITY\Nam 3 - HK 3\Đồ án A\Library Class\bin\Debug\net6.0\Library Class.dll
+D:\UNIVERSITY\Nam 3 - HK 3\Đồ án A\Library Class\bin\Debug\net6.0\Library Class.pdb
+D:\UNIVERSITY\Nam 3 - HK 3\Đồ án A\Library Class\obj\Debug\net6.0\Library Class.csproj.AssemblyReference.cache
+D:\UNIVERSITY\Nam 3 - HK 3\Đồ án A\Library Class\obj\Debug\net6.0\Library Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITY\Nam 3 - HK 3\Đồ án A\Library Class\obj\Debug\net6.0\Library Class.AssemblyInfoInputs.cache
+D:\UNIVERSITY\Nam 3 - HK 3\Đồ án A\Library Class\obj\Debug\net6.0\Library Class.AssemblyInfo.cs
+D:\UNIVERSITY\Nam 3 - HK 3\Đồ án A\Library Class\obj\Debug\net6.0\Library Class.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\Nam 3 - HK 3\Đồ án A\Library Class\obj\Debug\net6.0\Library Class.dll
+D:\UNIVERSITY\Nam 3 - HK 3\Đồ án A\Library Class\obj\Debug\net6.0\refint\Library Class.dll
+D:\UNIVERSITY\Nam 3 - HK 3\Đồ án A\Library Class\obj\Debug\net6.0\Library Class.pdb
+D:\UNIVERSITY\Nam 3 - HK 3\Đồ án A\Library Class\obj\Debug\net6.0\Library Class.genruntimeconfig.cache
+D:\UNIVERSITY\Nam 3 - HK 3\Đồ án A\Library Class\obj\Debug\net6.0\ref\Library Class.dll
+C:\DoanChuyenNghanhA\File chính\Library Class\bin\Debug\net6.0\Library Class.deps.json
+C:\DoanChuyenNghanhA\File chính\Library Class\bin\Debug\net6.0\Library Class.runtimeconfig.json
+C:\DoanChuyenNghanhA\File chính\Library Class\bin\Debug\net6.0\Library Class.dll
+C:\DoanChuyenNghanhA\File chính\Library Class\bin\Debug\net6.0\ref\Library Class.dll
+C:\DoanChuyenNghanhA\File chính\Library Class\bin\Debug\net6.0\Library Class.pdb
+C:\DoanChuyenNghanhA\File chính\Library Class\obj\Debug\net6.0\Library Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\DoanChuyenNghanhA\File chính\Library Class\obj\Debug\net6.0\Library Class.AssemblyInfoInputs.cache
+C:\DoanChuyenNghanhA\File chính\Library Class\obj\Debug\net6.0\Library Class.AssemblyInfo.cs
+C:\DoanChuyenNghanhA\File chính\Library Class\obj\Debug\net6.0\Library Class.csproj.CoreCompileInputs.cache
+C:\DoanChuyenNghanhA\File chính\Library Class\obj\Debug\net6.0\Library Class.dll
+C:\DoanChuyenNghanhA\File chính\Library Class\obj\Debug\net6.0\ref\Library Class.dll
+C:\DoanChuyenNghanhA\File chính\Library Class\obj\Debug\net6.0\Library Class.pdb
+C:\DoanChuyenNghanhA\File chính\Library Class\obj\Debug\net6.0\Library Class.genruntimeconfig.cache
+C:\DoanChuyenNghanhA\File chính\Library Class\obj\Debug\net6.0\Library Class.csproj.AssemblyReference.cache

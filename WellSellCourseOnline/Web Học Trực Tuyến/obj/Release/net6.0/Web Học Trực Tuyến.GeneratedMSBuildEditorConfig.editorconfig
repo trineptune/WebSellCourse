@@ -1,0 +1,96 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Web_Học_Trực_Tuyến
+build_property.RootNamespace = Web_Học_Trực_Tuyến
+build_property.ProjectDir = D:\Template\Web Học Trực Tuyến\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Template\Web Học Trực Tuyến
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Template/Web Học Trực Tuyến/Views/Dangky/FormDK.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuZ2t5XEZvcm1ESy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Template/Web Học Trực Tuyến/Views/Home/ChiTiet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGlUaWV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Template/Web Học Trực Tuyến/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Template/Web Học Trực Tuyến/Views/Home/Khoahoc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLaG9haG9jLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Template/Web Học Trực Tuyến/Views/Home/Lienhe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaWVuaGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Template/Web Học Trực Tuyến/Views/Home/Lophoc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb3Bob2MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Template/Web Học Trực Tuyến/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Template/Web Học Trực Tuyến/Views/Home/Thongtin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaG9uZ3Rpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Template/Web Học Trực Tuyến/Views/Shared/ChiTiet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENoaVRpZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Template/Web Học Trực Tuyến/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Template/Web Học Trực Tuyến/Views/Shared/FormDK.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvcm1ESy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Template/Web Học Trực Tuyến/Views/Shared/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEhvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Template/Web Học Trực Tuyến/Views/Shared/Khoahoc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEtob2Fob2MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Template/Web Học Trực Tuyến/Views/Shared/Lienhe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExpZW5oZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Template/Web Học Trực Tuyến/Views/Shared/Lophoc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExvcGhvYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Template/Web Học Trực Tuyến/Views/Shared/Thongtin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFRob25ndGluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Template/Web Học Trực Tuyến/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Template/Web Học Trực Tuyến/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Template/Web Học Trực Tuyến/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Template/Web Học Trực Tuyến/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rtq7qaimsv

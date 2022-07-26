@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b1b622cf-db13-4d2e-8fca-d71af3ab2b67": {
+      "ProjectGuid": "b1b622cf-db13-4d2e-8fca-d71af3ab2b67",
+      "DisplayName": "Web Học Trực Tuyến",
+      "ColorIndex": 0
+    },
+    "aa933e49-1b78-461d-8fad-559545cca58f": {
+      "ProjectGuid": "aa933e49-1b78-461d-8fad-559545cca58f",
+      "DisplayName": "Library Class",
+      "ColorIndex": 1
+    },
+    "0f77167d-27cc-437e-a360-459285bb245d": {
+      "ProjectGuid": "0f77167d-27cc-437e-a360-459285bb245d",
+      "DisplayName": "Library Class",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "219826c4-445d-4713-907c-216f15e0e3aa": {
+      "ProjectGuid": "219826c4-445d-4713-907c-216f15e0e3aa",
+      "DisplayName": "ElearningWindowForm",
+      "ColorIndex": 3
+    },
+    "4ad75c6d-1256-4ebf-a588-050cb849d416": {
+      "ProjectGuid": "4ad75c6d-1256-4ebf-a588-050cb849d416",
+      "DisplayName": "Library Class",
+      "ColorIndex": 4
+    },
+    "ef440ee4-658a-40bd-b4a6-303ca3b3e838": {
+      "ProjectGuid": "ef440ee4-658a-40bd-b4a6-303ca3b3e838",
+      "DisplayName": "Library Class",
+      "ColorIndex": 5
+    },
+    "ea0d3d8f-6e74-4be9-84b0-769bb7cb302a": {
+      "ProjectGuid": "ea0d3d8f-6e74-4be9-84b0-769bb7cb302a",
+      "DisplayName": "Library Class",
+      "ColorIndex": 6
+    },
+    "4b1596b1-e9b6-46b2-a3d8-de68396888d2": {
+      "ProjectGuid": "4b1596b1-e9b6-46b2-a3d8-de68396888d2",
+      "DisplayName": "ElearningWindowForm",
+      "ColorIndex": 7
+    },
+    "8e74ca1d-3234-42dd-829f-fae2685fae90": {
+      "ProjectGuid": "8e74ca1d-3234-42dd-829f-fae2685fae90",
+      "DisplayName": "Web Học Trực Tuyến",
+      "ColorIndex": 8
+    },
+    "54f05807-2c66-4ab4-b28a-f23d9f85fb7e": {
+      "ProjectGuid": "54f05807-2c66-4ab4-b28a-f23d9f85fb7e",
+      "DisplayName": "Web Học Trực Tuyến",
+      "ColorIndex": 9
+    },
+    "cb67c83e-4dcf-4efd-b470-1d8ac59c4b4a": {
+      "ProjectGuid": "cb67c83e-4dcf-4efd-b470-1d8ac59c4b4a",
+      "DisplayName": "ElearningWindowForm",
+      "ColorIndex": 10
+    },
+    "363daf38-3a72-47c0-ae21-82bf177284d9": {
+      "ProjectGuid": "363daf38-3a72-47c0-ae21-82bf177284d9",
+      "DisplayName": "Library Class",
+      "ColorIndex": 11
+    },
+    "f56cff86-d353-4615-abad-f25c9e3a847f": {
+      "ProjectGuid": "f56cff86-d353-4615-abad-f25c9e3a847f",
+      "DisplayName": "Library Class",
+      "ColorIndex": 12
+    },
+    "380ae1be-28e0-4693-9d9e-5ef0f51c12f3": {
+      "ProjectGuid": "380ae1be-28e0-4693-9d9e-5ef0f51c12f3",
+      "DisplayName": "ElearningWindowForm",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}

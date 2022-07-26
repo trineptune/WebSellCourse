@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library Class", "Library Class.csproj", "{3EE01D7D-D586-4FB1-A9BD-167D412276DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElearningWindowForm", "..\ElearningWindowForm\ElearningWindowForm.csproj", "{2DE53250-F6EE-4213-AD1D-B606E1A9A195}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EE01D7D-D586-4FB1-A9BD-167D412276DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE01D7D-D586-4FB1-A9BD-167D412276DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE01D7D-D586-4FB1-A9BD-167D412276DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE01D7D-D586-4FB1-A9BD-167D412276DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE53250-F6EE-4213-AD1D-B606E1A9A195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE53250-F6EE-4213-AD1D-B606E1A9A195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE53250-F6EE-4213-AD1D-B606E1A9A195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE53250-F6EE-4213-AD1D-B606E1A9A195}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF847337-97AD-47D4-A51D-A17252D5B9E9}
+	EndGlobalSection
+EndGlobal

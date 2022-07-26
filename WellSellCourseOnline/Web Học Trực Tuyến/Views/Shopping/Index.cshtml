@@ -1,0 +1,43 @@
+﻿@{
+    Layout = "~/Views/Shared/Layout1.cshtml";
+}
+@model  Library_Class.Entities.ChiTietDatHang
+<h2>Id giỏ hàng :@ViewBag.SessionId</h2>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Khóa học</th>
+            <th scope="col">Hình ảnh</th>
+            <th scope="col">Giá</th>
+            <th scope="col">Giá giảm</th>
+            <th scope="col">Số lượng</th>
+            <th scope="col">Tổng cộng (chưa giảm giá )</th>
+        </tr> 
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.Cart)
+        {
+
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">@item.Name</th>
+                <th scope="col">
+                    <img src="@item.Image" style="width:100px; height:100px"  />
+                </th>
+                <th scope="col">@item.Price</th>
+                <th scope="col">@item.giagiam</th>
+                <th scope="col">@item.Quantity</th>
+                <th scope="col"> @(item.Price * item.Quantity) </th>
+            </tr>
+        }
+    </tbody>
+  
+<a href="https://localhost:7226/Shopping/ThanhToan" class="btn btn-primary px-4 mx-auto mb-4">Thanh Toán</a>
+
+                                
+</table>
+
+     Thành tiền: @ViewBag.Total
